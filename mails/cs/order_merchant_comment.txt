@@ -1,0 +1,10 @@
+Zpráva od {shop_name}
+
+Dobrý den, p. {lastname},
+	
+Nová zpráva ohledně zákazníkovi objednávky #{id_order}:
+{message}		
+	
+ 
+
+{shop_url} funguje na systému PrestaShop

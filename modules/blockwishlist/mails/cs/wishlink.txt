@@ -1,0 +1,7 @@
+Dobrý den,
+
+{shop_name} Vás vyzývá k zaslání tohoto odkazu svým přátelům. Pak se budou moci podívat na Váše přání {wishlist} :
+
+{message}
+
+{shop_url} funguje na systému PrestaShop™

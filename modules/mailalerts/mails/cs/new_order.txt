@@ -1,0 +1,52 @@
+Zákazník {firstname} {lastname} vytvořil novou objednávku.
+		
+Detaily objednávky
+
+Objednávka: {order_name} ze dne {date} 
+Přepravce: {shipper}
+Způsob úhrady: {payment}
+
+-----------------------
+
+Cena produktů celkem: {total_products}
+Slevy: {total_discounts}
+Dárkové balení: {total_wrapping}
+Poštovné: {total_shipping}
+Celkem k úhradě: {total_paid}
+
+-----------------------
+	
+Doručení
+
+Způsob dodání: {carrier}
+	
+-----------------------
+
+Adresa pro doručení:
+{delivery_firstname} {delivery_lastname}
+{delivery_address1}
+{delivery_address2}
+{delivery_postal_code} {delivery_city}
+{delivery_country} {delivery state}
+{delivery_other}
+
+-----------------------
+
+Fakturační adresa:
+
+{invoice_company}
+{invoice_firstname} {invoice_lastname}
+{invoice_address1}
+{invoice_address2}
+{invoice_postal_code} {invoice_city}
+{invoice_country} {invoice_state}
+{invoice_other}
+
+------------------
+
+Zpráva od zákazníka:
+
+{message}
+
+
+{shop_url} funguje na systému PrestaShop

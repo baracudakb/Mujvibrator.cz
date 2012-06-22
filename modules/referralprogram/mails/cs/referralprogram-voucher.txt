@@ -1,0 +1,12 @@
+Dobrý den, p. {lastname},
+
+Radi bychom Vás informovali o vytvoření kupónu vystaveného na Vaše jméno v souvislosti se sponzorským programem.
+
+Kód Vašeho kupónu je: {voucher_num}, má hodnotu {voucher_amount} Kč.
+Kód kupónu jednoduše vložte do nákupního košíku před zaplacením budoucí objednávky.
+
+Děkujeme za Váš nákup v obchodě {shop_name}.
+
+
+------------------
+{shop_url} funguje na systému PrestaShop™

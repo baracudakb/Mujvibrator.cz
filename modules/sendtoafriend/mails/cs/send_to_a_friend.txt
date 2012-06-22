@@ -1,0 +1,12 @@
+Dobrý den {name},
+
+{customer} Vám doporučuje zboží, které by Vás mohlo zajímat.
+
+{product}: {product_link}
+
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} funguje na systému PrestaShop™

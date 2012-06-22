@@ -1,0 +1,14 @@
+Dobrý den, p. {lastname},
+
+Právě jste získal dobropis z Vaší objednávky #{id_order}.  
+  
+Dobropis si můžete prohlédnout v příslušné sekci po kliknutí na odkaz "Můj účet" v našem internetovém obchodě. 
+
+Fakturu lze stáhnout v sekci "Moje objednávky" po kliknutí na odkaz "Můj účet" v našem internetovém obchodě. 
+ 
+Děkujeme Vám za nákup na {shop_name}.
+
+{shop_name} - {shop_url}
+
+ 
+{shop_url} funguje na systému PrestaShop

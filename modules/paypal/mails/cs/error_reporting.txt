@@ -1,0 +1,9 @@
+Dobrý den,
+
+Chybové hlášení z Vašeho PayPalAPI modulu
+
+Zákazník se setkal s problémem s modulem PayPalAPI. Prohlédněte si hlášení: :
+
+{logs}
+
+{shop_url} funguje na systému PrestaShop™

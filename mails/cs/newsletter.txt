@@ -1,0 +1,9 @@
+Novinky z {shop_name}
+
+Zpráva
+
+{message}
+
+ 
+
+{shop_url} funguje na systému PrestaShop

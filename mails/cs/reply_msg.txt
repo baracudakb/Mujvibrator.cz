@@ -1,0 +1,4 @@
+{reply}
+
+Neodpovídejte prosím na tuto zprávu z Vašeho e-mailového klienta. Pokud to uděláte nebude nám Vaše zpráva doručena.
+Pro odpověď prosím použijte výhradně následující odkaz: {link}

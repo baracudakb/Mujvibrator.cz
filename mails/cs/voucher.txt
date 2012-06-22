@@ -1,0 +1,14 @@
+Dobrý den, p. {lastname},
+
+Právě Vám byl vytvořen slevový kupón díky objednávce číslo #{id_order}.
+
+Zde je kód Vaší slevy: {voucher_num}, s částkou {voucher_amount}.
+
+Jednoduše okopírujte tento kód a použijte ho při Vašem příštím nákupu. 
+
+Děkujeme za Váš nákup na {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} funguje na systému PrestaShop

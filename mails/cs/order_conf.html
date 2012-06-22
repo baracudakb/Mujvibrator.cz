@@ -1,0 +1,105 @@
+<table style="font-family: Verdana,sans-serif; font-size: 11px; color: #374953; width: 550px;" border="0">
+<tbody>
+<tr>
+<td align="left"><a title="{shop_name}" href="{shop_url}"><img style="border: none;" src="{shop_logo}" alt="{shop_name}" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Dobr&yacute; den, p. <strong>{lastname}</strong>.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #05536a; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="left">Detaily objedn&aacute;vky</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Objedn&aacute;vka: <strong><span style="color: #05536a;">{order_name}</span> vytvořena {date}</strong> <br />Způsob platby: <strong>{payment}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">{products} 						{discounts} 					  
+<table style="width: 100%; font-size: 11px; color: #374953;" border="0">
+<!-- Title --> 
+<tbody>
+<tr style="background-color: #b9babe; text-align: center;">
+<th style="width: 15%; padding: 0.6em 0pt;">K&oacute;d</th> <th>Zbož&iacute;</th> <th style="width: 15%; padding: 0.6em 0pt;">Cena/kus</th> <th style="width: 15%; padding: 0.6em 0pt;">Množstv&iacute;</th> <th style="width: 20%; padding: 0.6em 0pt;">Cena</th>
+</tr>
+<!-- Products --><!-- Footer: prices --> 
+<tr style="text-align: right;">
+<td>&nbsp;</td>
+<td style="background-color: #b9babe; padding: 0.6em 0.4em;" colspan="3">Zbož&iacute;</td>
+<td style="background-color: #b9babe; padding: 0.6em 0.4em;">{total_products}</td>
+</tr>
+<tr style="text-align: right;">
+<td>&nbsp;</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;" colspan="3">Slevy</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;">{total_discounts}</td>
+</tr>
+<tr style="text-align: right;">
+<td>&nbsp;</td>
+<td style="background-color: #dde2e6; padding: 0.6em 0.4em;" colspan="3">D&aacute;rkov&eacute; balen&iacute;</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;">{total_wrapping}</td>
+</tr>
+<tr style="text-align: right;">
+<td>&nbsp;</td>
+<td style="background-color: #dde2e6; padding: 0.6em 0.4em;" colspan="3">Po&scaron;tovn&eacute;</td>
+<td style="background-color: #dde2e6; padding: 0.6em 0.4em;">{total_shipping}</td>
+</tr>
+<tr style="text-align: right; font-weight: bold;">
+<td>&nbsp;</td>
+<td style="background-color: #9fad9c; padding: 0.6em 0.4em;" colspan="3">Cena celkem</td>
+<td style="background-color: #9fad9c; padding: 0.6em 0.4em;">{total_paid}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #05536a; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="left">Doručen&iacute;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Způsob dopravy: <strong>{carrier}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+<table style="width: 100%; font-family: Verdana,sans-serif; font-size: 11px; color: #374953;" border="0">
+<tbody>
+<tr style="background-color: #b9babe; text-transform: uppercase;">
+<th style="text-align: left; padding: 0.3em 1em;">Adresa pro doručen&iacute;</th> <th style="text-align: left; padding: 0.3em 1em;">Fakturačn&iacute; adresa</th>
+</tr>
+<tr>
+<td style="padding: 0.5em 0 0.5em 0.5em; background-color: #ebecee;"><span style="color: #05536a; font-weight: bold;">{delivery_firstname} {delivery_lastname}</span> <br />{delivery_address1} 							<br />{delivery_address2} 							<br />{delivery_city} {delivery_postal_code} 							<br />{delivery_country} 							<br /><br />Tel.: {delivery_phone}</td>
+<td style="padding: 0.5em 0 0.5em 0.5em; background-color: #ebecee;"><span style="color: #05536a; font-weight: bold;">{invoice_firstname} {invoice_lastname}</span> <br />{invoice_address1} 							<br />{invoice_address2} 							<br />{invoice_city} {invoice_postal_code} 							<br />{invoice_country} 							<br /><br />Tel.: {invoice_phone}</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br />Objedn&aacute;vku si můžete prohl&eacute;dnout a fakturu st&aacute;hnout na na&scaron;ich str&aacute;nk&aacute;ch v sekci <a style="color: #05536a; font-weight: bold; text-decoration: none;" href="versions/1.4.0.17/mails/en/%7Bshop_url%7Dhistory.php">"Historie objedn&aacute;vek"</a> z Va&scaron;eho &uacute;čtu kliknut&iacute;m na <a style="color: #05536a; font-weight: bold; text-decoration: none;" href="versions/1.4.0.17/mails/en/%7Bshop_url%7Dmy-account.php">"Můj &uacute;čet"</a>. M&aacute;te-li n&aacute;v&scaron;těvnick&yacute; &uacute;čet, můžete svou objedn&aacute;vku sledovat v sekci <a style="color: #05536a; font-weight: bold; text-decoration: none;" href="versions/1.4.0.17/mails/cs/%7Bshop_url%7Dguest-tracking.php">"Sledov&aacute;n&iacute; objedn&aacute;vek"</a> na na&scaron;ich webov&yacute;ch str&aacute;nk&aacute;ch.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 10px; border-top: 1px solid #D9DADE;" align="center"><a style="color: #05536a; font-weight: bold; text-decoration: none;" href="{shop_url}">{shop_name}</a> funguje na syst&eacute;mu <a style="text-decoration: none; color: #374953;" href="http://www.prestashop.com/">PrestaShop&trade;</a></td>
+</tr>
+</tbody>
+</table>

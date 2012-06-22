@@ -1,0 +1,7 @@
+Pro adresu {shop_url} byl zakázán / smazán Twenga modul.
+
+Země obchodníka {shop_country}
+
+Prodávající {trader_email}
+
+Tým PrestaShop

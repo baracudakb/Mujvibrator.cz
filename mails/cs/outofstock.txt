@@ -1,0 +1,14 @@
+Dobrý den, p. {lastname},
+
+Vaše objednávka #{id_order} status
+
+Bohužel jedna nebo více položek z Vaši objednávky #{id_order} momentálně není skladem. To může způsobit zpoždění dodání. Přijměte naší omluvu, budeme se snažit co nejdříve problém vyřešit.
+
+Objednávku si můžete prohlédnout a fakturu si můžete stáhnout na našich stránkách ze sekce "Historie objednávek" z Vašeho účtu kliknutím na  "Můj účet" v našem internetovém obchodě.
+Máte-li návštěvnický účet, můžete svou objednávku sledovat na této stránce: {shop_url}guest-tracking.php.
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} funguje na systému PrestaShop

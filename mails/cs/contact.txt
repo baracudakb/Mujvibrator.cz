@@ -1,0 +1,13 @@
+Dobrý den, p. {lastname},
+
+Obdržel jste zprávu z internetového obchodu: {shop_name}
+
+Detaily:
+
+E-mail: {email}
+
+Text zprávy:
+
+{message}
+
+{shop_url} funguje na systému PrestaShop

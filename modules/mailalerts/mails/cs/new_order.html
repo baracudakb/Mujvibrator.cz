@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Výpis nové objednávky č. {id_order} z obchodu {shop_name}</title>
+</head>
+<body>
+<table style="font-family: Verdana,sans-serif; font-size: 11px; color: #374953; width: 550px;">
+<tbody>
+<tr>
+<td align="left"><a title="{shop_name}" href="{shop_url}"><img style="border: none;" src="{shop_logo}" alt="{shop_name}" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Z&aacute;kazn&iacute;k <strong style="color: #05536a;">{firstname} {lastname}</strong> vytvořil novou objedn&aacute;vku.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #05536a; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="left">Detaily nov&eacute; objedn&aacute;vky</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Objedn&aacute;vka: <strong><span style="color: #05536a;">{order_name}</span> ze dne {date}</strong> <br />Způsob &uacute;hrady: <strong>{payment}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">{items} 					 
+<table style="width: 100%; font-family: Verdana,sans-serif; font-size: 11px; color: #374953;">
+<tbody>
+<tr style="background-color: #b9babe; text-align: center;">
+<th style="width: 15%; padding: 0.6em 0;">Evid.č.</th> <th>Produkt</th> <th style="width: 15%; padding: 0.6em 0;">Cena/kus</th> <th style="width: 15%; padding: 0.6em 0;">Množstv&iacute;</th> <th style="width: 20%; padding: 0.6em 0;">Celkem</th>
+</tr>
+<tr style="text-align: right;">
+<td style="background-color: #b9babe; padding: 0.6em 0.4em;" colspan="4">Cena produktů celkem</td>
+<td style="background-color: #b9babe; padding: 0.6em 0.4em;">{total_products}</td>
+</tr>
+<tr style="text-align: right;">
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;" colspan="4">Slevy</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;">{total_discounts}</td>
+</tr>
+<tr style="text-align: right;">
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;" colspan="4">D&aacute;rkov&eacute; balen&iacute;</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;">{total_wrapping}</td>
+</tr>
+<tr style="text-align: right;">
+<td style="background-color: #dde2e6; padding: 0.6em 0.4em;" colspan="4">Po&scaron;tovn&eacute;</td>
+<td style="background-color: #dde2e6; padding: 0.6em 0.4em;">{total_shipping}</td>
+</tr>
+<tr style="text-align: right; font-weight: bold;">
+<td style="background-color: #9fad9c; padding: 0.6em 0.4em;" colspan="4">Celkem k &uacute;hrade</td>
+<td style="background-color: #f1aecf; padding: 0.6em 0.4em;">{total_paid}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #05536a; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="left">Doručen&iacute;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Dopravce: <strong>{carrier}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table style="width: 100%; font-family: Verdana,sans-serif; font-size: 11px; color: #374953;">
+<tbody>
+<tr style="background-color: #b9babe; text-transform: uppercase;">
+<th style="text-align: left; padding: 0.3em 1em;">Adresa pro doručen&iacute;</th> <th style="text-align: left; padding: 0.3em 1em;">Fakturačn&iacute; adresa</th>
+</tr>
+<tr>
+<td style="padding: 0.5em 0 0.5em 0.5em; background-color: #ebecee;">{delivery_company} 							<br /><span style="color: #05536a; font-weight: bold;">{delivery_firstname} {delivery_lastname}</span> <br />{delivery_address1} 							<br />{delivery_address2} 							<br />{delivery_city} {delivery_postal_code} 							<br />{delivery_country} {delivery_state} 							<br />{delivery_phone} 							<br />{delivery_other}</td>
+<td style="padding: 0.5em 0 0.5em 0.5em; background-color: #ebecee;">{invoice_company} 							<br /><span style="color: #05536a; font-weight: bold;">{invoice_firstname} {invoice_lastname}</span> <br />{invoice_address1} 							<br />{invoice_address2} 							<br />{invoice_city} {invoice_postal_code} 							<br />{invoice_country} {invoice_state} 							<br />{invoice_phone} 							<br />{invoice_other}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #05536a; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="left">Zpr&aacute;va od z&aacute;kazn&iacute;ka</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left"><strong>{message}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 10px; border-top: 1px solid #D9DADE;" align="center"><a style="color: #05536a; font-weight: bold; text-decoration: none;" href="{shop_url}">{shop_name}</a> funguje na syst&eacute;mu <a style="text-decoration: none; color: #374953;" href="http://www.prestashop.com/">PrestaShop&trade;</a></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,12 @@
+Dobrý den,
+
+Skladové zásoby zboží "{product}" se snižují.
+
+Zdá se, že byl překročený minimální objem skladových zásob: {last_qty}.
+Aktuální počet kusů na skladě : {qty}
+
+Doporučujeme doplnit skladové zásoby a v administraci aktualizovat dostupné množství daného produktu.
+
+
+------------------
+{shop_url} funguje na systému PrestaShop™

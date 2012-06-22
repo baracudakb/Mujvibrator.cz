@@ -1,0 +1,35 @@
+Dobrý den, p. {lastname},
+		
+	Detaily objednávky
+
+	Objednávka: {order_name} z {date}
+	Platba: {payment}
+	
+	Cena produktů: {total_products}
+	Slevy: {total_discounts}
+	Poštovné: {total_shipping}
+	Cena celkem: {total_paid}
+	
+	
+	Doručení
+		
+	Přeprava: {carrier}
+	
+	Adresa pro doručení:
+	{delivery_firstname} {delivery_lastname}
+	{delivery_address1}
+	{delivery_address2}
+	{delivery_postal_code} {delivery_city}
+	{delivery_country}
+	
+	Fakturační adresa:
+	{invoice_firstname} {invoice_lastname}
+	{invoice_address1}
+	{invoice_address2}
+	{invoice_postal_code} {invoice_city}
+	{invoice_country}
+		
+Objednávku si můžete prohlédnout a fakturu stáhnout na našich stránkách v sekci "Historie objednávek" z Vašeho účtu kliknutím na  "Můj účet" v našem internetovém obchodě.
+Máte-li návštěvnický účet, můžete svou objednávku sledovat na této stránce: {shop_url}guest-tracking.php.
+ 
+{shop_url} funguje na systému PrestaShop

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>xmlimport</name>
+	<displayName><![CDATA[XML Import]]></displayName>
+	<version><![CDATA[ i3 PS 1.4+]]></version>
+	<description><![CDATA[Import products from XML]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[Im IN]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

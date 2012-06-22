@@ -1,0 +1,17 @@
+{firstname_friend} {lastname_friend}, připojte se k nám!
+
+Váš přítel {firstname} {lastname} by Vás chtěl sponzorovat v obchodě {shop_url}.
+
+Nechte se sponzorovat a získejte kupón se slevou {discount}!
+
+Přihlásit se můžete velice jednoduše. Klikněte na následující odkaz:
+
+{shop_url}{link}
+
+Až se přihlásíte, nezapomeňte uvést e-mailovou adresu přítele, který Vás sponzoroval: {email}.
+
+S pozdravem {shop_url}
+
+
+------------------
+{shop_url} funguje na systému PrestaShop™

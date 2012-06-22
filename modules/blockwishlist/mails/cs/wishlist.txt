@@ -1,0 +1,9 @@
+Dobrý den,
+
+{firstname} {lastname} by Vám rád(a) doporučil(a) svůj seznam přání "{wishlist}" :
+
+{message}
+
+
+------------------
+{shop_url} funguje na systému PrestaShop™

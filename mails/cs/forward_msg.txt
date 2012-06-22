@@ -1,0 +1,4 @@
+{employee} Vám chce předat tuto komunikaci.
+Komentář: {comment}
+ 
+{messages}

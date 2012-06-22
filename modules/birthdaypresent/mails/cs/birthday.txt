@@ -1,0 +1,7 @@
+Dobrý den, p. {lastname},
+
+{shop_name} Vám chce popřát vše nejlepší k narozeninám a připravil pro Vás malý dárek.
+Připravili jsme pro Vás malé překvapení... Přihlaste se prosím do Vašeho zákaznického účtu v našem obchodě a převezměte si kupón se slevou.
+
+
+{shop_url} funguje na systému PrestaShop™

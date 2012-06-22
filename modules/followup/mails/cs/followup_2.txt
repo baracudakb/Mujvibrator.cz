@@ -1,0 +1,9 @@
+Dobrý den, p. {lastname},
+ 
+Děkujeme Vám za nákup na {shop_name}
+ 
+Výjimečně Vám poskytneme slevu {amount}% z Vaší další objednávky! Tato nabídka je platná pouze {days} dnů, takže neváhejte!
+ 
+Zde je Váš slevový poukaz: {voucher_num}
+
+K získání slevy vložte tento kód do svého nákupního košíku.

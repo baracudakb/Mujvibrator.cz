@@ -1,0 +1,14 @@
+Dobrý den, p. {lastname},
+		
+Váš návštěvnický účet byl změněn na zákaznický účet:
+	
+E-mail: {email}
+Heslo: {passwd}
+	
+	
+Nyní se můžete se svým účtem přihlásit na našich stránkách: {shop_url}
+
+Prosím buďte opatrní pokud svěříte své přihlašovací údaje dalším osobám. 
+
+
+{shop_url} funguje na systému PrestaShop™

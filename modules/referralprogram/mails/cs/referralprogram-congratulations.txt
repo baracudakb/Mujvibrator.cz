@@ -1,0 +1,9 @@
+Gratulujeme Vám!
+
+Vámi sponzorovaný přítel, {sponsored_firstname} {sponsored_lastname} vytvořil v obchodě {shop_url} svoji první objednávku!
+
+Radi bychom Vám proto nabídli slevu v hodnotě {discount_display} (kupón č. {discount_name}), kterou můžete uplatnit při příští objednávce.
+
+
+
+{shop_url} powered by PrestaShop™

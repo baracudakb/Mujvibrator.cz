@@ -1,0 +1,9 @@
+Dobrý den,
+
+Díky Vašemu přihlášení k odběru novinek z našeho internetového obchodu máme to potěšení Vám nabídnout slevový poukaz : {discount}
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} funguje na systému PrestaShop™

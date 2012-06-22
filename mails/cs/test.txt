@@ -1,0 +1,3 @@
+Dobrý den, p. {lastname},
+
+Toto je zkušební e-mail z Vašeho internetového obchodu.

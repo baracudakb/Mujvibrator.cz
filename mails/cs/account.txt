@@ -1,0 +1,20 @@
+Vítejte, p. {lastname}
+
+Děkujeme Vám za vytvoření účtu na {shop_name}.
+
+Vaše přihlašovací údaje:
+
+E-mail: {email}
+Heslo: {passwd}
+
+A nyní již můžete nakupovat v našem obchodě: {shop_name}
+
+Bezpečnostní doporučení:
+
+* Přihlašovací údaje si dobře uschovejte.
+* Nikomu tyto přihlašovací údaje nepředávejte.
+* Pravidelně měňte heslo.
+* Pokud máte pocit, že váš účet používá někdo jiný, okamžitě nás prosím kontaktujte.
+
+
+{shop_url} funguje na systému PrestaShop

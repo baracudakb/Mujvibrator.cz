@@ -1,0 +1,11 @@
+Dobrý den,
+
+Zboží {product} je nyní k dispozici.
+Právě bylo znovu naskladněno.
+
+Na stránku zboží se dostanete kliknutím na odkaz: {product_link}
+
+Můžete si ho nyní znovu objednat v našem internetovém obchodě.
+
+
+{shop_url} funguje na systému PrestaShop

@@ -1,0 +1,13 @@
+Dobrý den, p. {lastname},
+ 
+Zaznamenali jsme, že jste během Vaší poslední návštěvy na {shop_name} nedošlo k dokončení Vaší objednávky.
+
+Váš košík byl uložen, takže můžete svoji objednávku dokončit při další návštěvě našeho obchodu:
+
+{shop_url}
+
+Výjimečně Vám poskytneme slevu {amount}% z Vaší další objednávky! Tato nabídka je platná pouze {days} dnů, takže neváhejte! 
+ 
+Zde je Váš slevový poukaz: {voucher_num}
+
+K získání slevy vložte tento kód do svého nákupního košíku. 

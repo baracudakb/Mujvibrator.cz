@@ -1,0 +1,11 @@
+Rádi bychom Vás opět viděli na {shop_name}
+
+Dobrý den, p. {lastname},
+ 
+Patříte mezi naše nejlepší zákazníky i přesto, že jste u nás nenakoupil(a) již {days_threshold} dnů.
+
+Chtěli bychom Vám poděkovat za Vaši důvěru a výjimečně Vám poskytneme slevu {amount}% z Vaší další objednávky! Tato nabídka je platná pouze {days} dnů, takže neváhejte!
+ 
+Zde je Váš slevový poukaz: {voucher_num}
+
+K získání slevy vložte tento kód do svého nákupního košíku.

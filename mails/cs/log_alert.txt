@@ -1,0 +1,11 @@
+Dobrý den,
+
+Nové upozornění v logu
+
+Bohužel byla zaznamenána výstražná zpráva v logu. 
+
+Můžete ji zkontrolovat ve Vaší administraci obchodu > Nástroje > Log. 
+
+{shop_name} - {shop_url}
+
+{shop_url} funguje na systému PrestaShop™

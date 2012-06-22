@@ -1,0 +1,3 @@
+Napište prosím recenzi a ohodnoťe nás {rating_url}
+
+{shop_url} funguje na systému PrestaShop™

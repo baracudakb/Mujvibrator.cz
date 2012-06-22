@@ -1,0 +1,12 @@
+Vaše zpráva byla úspěšně odeslána naší zákaznické podpoře.
+
+Vaše zpráva:
+
+{message}
+
+
+Odpovíme v nejkratší možné době..
+
+S pozdravem,
+
+{shop_url} funguje na systému PrestaShop™
